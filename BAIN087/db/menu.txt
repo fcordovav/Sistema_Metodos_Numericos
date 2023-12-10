@@ -1,0 +1,8 @@
+0) Salir
+1) Eliminación gaussiana
+2) Eliminación gaussiana con pivoteo parcial
+3) Eliminación gaussiana con pivoteo total
+4) Factorización Doolittle A = LU
+5) Factorización Croutt A = LU
+6) Factorización PA = LU
+7) Limpiar consola
